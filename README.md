@@ -25,7 +25,7 @@ Tutorials on [https://realpython.com/python-formatted-output/](https://realpytho
 
 Try:
 
-![](RackMultipart20230308-1-pr6h9z_html_f874078543895464.png)
+![](PicAssignment1.png)
 
 1. Familiarize yourself with indexing in python.Iterables can be accessed using index values in python. Eg: list, tuple,dict, set
   1. Create a list of items.
