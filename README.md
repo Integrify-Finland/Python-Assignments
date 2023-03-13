@@ -2,7 +2,7 @@
 These assignmets are about Python
 
 1. **Data types**
-Assignment 1 [https://github.com/Integrify-Finland/Python-Assignment1/blob/main/Assignmemts/1.%20Python_data_types.md]
+[Assignment 1] (https://github.com/Integrify-Finland/Python-Assignment1/blob/main/Assignmemts/1.%20Python_data_types.md)
 2. **Flow control, Loops and Functions**
 Assignment 2 [https://github.com/Integrify-Finland/Python-Assignment1/blob/main/Assignmemts/2.%20Flow_control%2CLoops%20and%20Functions.md]
 3. **Higher Order Functions**
